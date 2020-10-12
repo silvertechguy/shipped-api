@@ -1,2 +1,2 @@
-# Woofer API Spec
+# Shipped API Spec
 ## Endpoints:
