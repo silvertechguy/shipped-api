@@ -59,7 +59,9 @@ jane@example.com (Customer)
 ### Frontend setup (React.JS)
 1. Clone the frontend repo [here](https://github.com/silvertechguy/shipped)
 2. Run `npm install`
-3. Run `npm start`
+3. Remove this line ` export const endpoint = "https://shipped-api.herokuapp.com";` from `src/API.js`
+4. Add this line instead ` export default "http://localhost:5000";`
+5. Run `npm start`
 
 👨‍💻 My projects are available at https://silvertechguy.netlify.app
 📫 Reach me at my email silvertechguy@gmail.com
