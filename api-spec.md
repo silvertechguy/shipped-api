@@ -1,0 +1,2 @@
+# Woofer API Spec
+## Endpoints:
