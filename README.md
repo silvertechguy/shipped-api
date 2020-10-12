@@ -5,7 +5,7 @@
 - Check out the deployed site [API - Backend](https://shipped-api.herokuapp.com/)
 - If you are looking for the frontend repo, [click here](https://github.com/silvertechguy/shipped)
 - Check out the deployed site [Frontend](https://shipped-official.herokuapp.com/)
-- API Endpoints: [here](https://github.com/silvertechguy/shipped-api/blob/master/api-spec.md)
+- API Endpoints: [here](https://github.com/silvertechguy/shipped-api/blob/main/api-spec.md)
 ## Features
 - Full featured shopping cart
 - Product reviews and ratings
@@ -62,7 +62,11 @@ jane@example.com (Customer)
 5. Run `npm start`
 
 👨‍💻 My projects are available at https://silvertechguy.netlify.app
+
 📫 Reach me at my email silvertechguy@gmail.com
+
 twitter https://twitter.com/silvertechyguy
+
 LinkedIn https://linkedin.com/in/silvertechguy
+
 
