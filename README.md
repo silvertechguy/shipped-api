@@ -1,6 +1,6 @@
 # Shipped eCommerce Platform API (Backend)
 > eCommerce platform built with the MERN stack & Redux.
-![screenshot](https://github.com/silvertechguy/shipped-api/blob/master/shipped.png)
+![screenshot](https://github.com/silvertechguy/shipped-api/blob/main/shipped.png)
 - Check out the deployed site [API - Backend](https://shipped-api.herokuapp.com/)
 - If you are looking for the frontend repo, [click here](https://github.com/silvertechguy/shipped)
 - Check out the deployed site [Frontend](https://shipped-official.herokuapp.com/)
